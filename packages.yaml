@@ -12,3 +12,8 @@ win:
   Examples:
     url: https://github.com/dicehub-packages/examples-dev/releases/download/17.10.0/Examples-17.10.0-any.zip
     release: 17.10.0
+
+  Geometry Utilities:
+    url: https://github.com/dicehub-packages/geometry-utilities-dev/releases/download/17.10.0/Geometry.Utilities-17.10.0-win64.zip
+    release: 17.10.0
+    
