@@ -1,3 +1,7 @@
+Examples:
+  url: https://github.com/dicehub-packages/examples-dev/releases/download/17.10.0/Examples-17.10.0-linux64.zip
+  release: 17.10.0
+
 OpenFOAM-4.1:
   url: http://backup1.foxcloud.net/mcubcsro/public/dice/packages/OpenFOAM-4.1-1.0.1-linux64.zip
-  release: 1.0.1 
+  release: 1.0.1
