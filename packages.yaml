@@ -17,7 +17,7 @@ win:
     release: 17.10.0
 
   Geometry Utilities:
-    url: https://github.com/dicehub-packages/geometry-utilities-dev/releases/download/17.10.0/Geometry.Utilities-17.10.0-win64.zip
+    url: https://github.com/dicehub-packages/geometry-utilities-dev/releases/download/18.01.0/Geometry.Utilities-18.01.0-win64.zip
     release: 18.01.0
 
   OpenFOAM-4.1:
