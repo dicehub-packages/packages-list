@@ -21,6 +21,6 @@ win:
     release: 18.01.0
 
   OpenFOAM-4.1:
-    url: https://github.com/dicehub-packages/OpenFOAM-4.1-dev/releases/download/18.01.0/OpenFOAM-4.1-18.01.0-win64.zip
-    release: 18.01.0
+    url: https://github.com/dicehub-packages/OpenFOAM-4.1-dev/releases/download/18.01.1/OpenFOAM-4.1-18.01.1-win64.zip
+    release: 18.01.1
     
